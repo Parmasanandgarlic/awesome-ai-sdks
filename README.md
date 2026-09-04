@@ -89,6 +89,21 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [FarmDash](https://www.farmdash.one/agents)
+
+FarmDash Agent OS is zero-custody DeFi infrastructure for AI agents: 84 MCP tools, an OpenAPI surface (45 operations), and TypeScript + Python agent SDKs for protocol intelligence, risk analysis, yield simulation, and explicitly-gated transaction workflows.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.farmdash.one/agents)
+- [OpenAPI](https://www.farmdash.one/agents/openapi.yaml)
+- [MCP manifest](https://www.farmdash.one/.well-known/mcp.json)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
