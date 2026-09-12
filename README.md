@@ -91,7 +91,7 @@ It is currently in alpha, and is not yet ready for production use.
 
 ## [FarmDash](https://www.farmdash.one/agents)
 
-FarmDash Agent OS is zero-custody DeFi infrastructure for AI agents: 84 MCP tools, an OpenAPI surface (45 operations), and TypeScript + Python agent SDKs for protocol intelligence, risk analysis, yield simulation, and explicitly-gated transaction workflows.
+FarmDash Agent OS is zero-custody DeFi infrastructure for AI agents: 84 MCP tools, an OpenAPI surface (35 operations), and TypeScript + Python agent SDKs for protocol intelligence, risk analysis, yield simulation, and explicitly-gated transaction workflows.
 
 <details>
 
