@@ -91,7 +91,7 @@ It is currently in alpha, and is not yet ready for production use.
 
 ## [FarmDash](https://www.farmdash.one/agents)
 
-FarmDash Agent OS is zero-custody DeFi infrastructure for AI agents: 84 MCP tools, an OpenAPI surface (35 operations), and TypeScript + Python agent SDKs for protocol intelligence, risk analysis, yield simulation, and explicitly-gated transaction workflows.
+FarmDash Agent Hub is zero-custody DeFi infrastructure for AI agents: 84 MCP tools, a versioned OpenAPI surface, and a public repository of open agent skills for protocol intelligence, risk analysis, yield simulation, and explicitly-gated transaction workflows. FarmDash never receives private keys — the customer’s wallet signs and broadcasts.
 
 <details>
 
@@ -101,6 +101,7 @@ FarmDash Agent OS is zero-custody DeFi infrastructure for AI agents: 84 MCP tool
 - [Web](https://www.farmdash.one/agents)
 - [OpenAPI](https://www.farmdash.one/agents/openapi.yaml)
 - [MCP manifest](https://www.farmdash.one/.well-known/mcp.json)
+- [Agent skills](https://github.com/Parmasanandgarlic/farmdash-openclaw-skills)
 
 </details>
 
